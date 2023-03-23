@@ -5,6 +5,10 @@
 body{
     
 }
+
+nav{
+    padding-right:20px;
+}
 .navbar-menu{
      margin-left: 40%;
 }
